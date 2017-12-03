@@ -1,0 +1,17 @@
+{
+  "name": "node-english-regular-verbs",
+  "version": "1.0.0",
+  "description": "Is a very extensive list of english regular verbs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "english",
+    "verbs"
+  ],
+  "author": "Franceskynov",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}

@@ -1,0 +1,82 @@
+{
+	"verbs" : [
+	
+	"accept","allow","applaud","attach","add","amuse","appreciate","attack","admire","analyse","approve","attempt","admit","announce","argue","attend",
+	"advise","annoy","arrange","attract","afford","answer","arrest","avoid","agree","apologise","arrive","alert","appear","ask",
+
+	"back","beg","boil","brake","bake","behave","bomb","branch","balance","belong","book","breathe","ban","bless","bore","bruise","bang","blind","borrow","brush",
+	"bare","blink","bounce","bubble","bat","blot","bow","bump","bathe","blush","box","burn","battle","boast","brake","bury", "beam",
+	
+	"calculate","choke","compare","cough","call","chop","compete","count","camp","claim","complain","cover","care","clap","complete","crack",
+	"carry","clean","concentrate","crash","carve","clear","concern","crawl","cause","clip","confess","cross","challenge","close","confuse","crush",
+	"change","coach","connect","cry","charge","coil","consider","cure","chase","collect","consist","curl","cheat","colour","contain","curve",
+	"check","comb","continue","cycle","cheer","command","copy","chew","communicate","correct",
+	
+	"dam","deliver","disapprove","dress","damage","depend","disarm", "drip","dance","describe","discover","drop","dare","desert","dislike","drown","decay",
+	"deserve","divide","drum","deceive","destroy","double","dry","decide","detect","doubt","decorate","delay","delight","develop","disagree","disappear",
+	"drag","drain","dream","dust",
+	
+	"earn","educate","embarrass","employ","empty","encourage","end","enjoy","enter","entertain","escape","examine","excite","excuse","exercise","exist",
+	"expand","expect","explain","explode","extend",
+	
+	"face","fade","fail","fancy","fasten","fax","fear","fence","fetch","file","fill","film","fire","fit","fix","flap","flash","float","flood","flow","flower",
+	"fold","follow","fool","force","form","found","frame","frighten","fry",
+	
+	"gather","gaze","glow","glue","grab","grate","grease","greet","grin","grip","groan","guarantee","guard","guess","guide",
+	
+	"hammer","hand","handle","hang","happen","harass","harm","hate","haunt","head","heal","heap","heat","help","hook","hop","hope","hover","hug",
+	"hum","hunt","hurry",
+	
+	"identify","ignore","imagine","impress","improve","include","increase","influence","inform","inject","injure","instruct","intend",
+	"interest","interfere","interrupt","introduce","invent","invite","irritate","itch",
+	
+	"jail","jam","jog","join","joke","judge","juggle","jump",
+	
+	"kick","kill","kiss","kneel","knit","knock","knot",
+	
+	"label","land","last","learn","level","license","lighten","like","list","load","lock","long","laugh","lick","listen","look","launch","lie","live","love",
+	
+	"man","matter","milk","move","manage","measure","mine","mug","march","meddle","miss","multiply","mark","melt","mix","murder","marry","memorise","moan",
+	"match","mend","mourn","mate","mess up",
+	
+	"nail","need","nod","notice","name","nest","note","number",
+	
+	"obey","obtain","offer","overflow", "object","occur","open","owe","observe","offend","order","own",
+	
+	"pack","permit","pop","prevent","paddle","phone","possess","prick","paint","pick","post","print","park","pinch","pour","produce","part","pine",
+	"practise","program","pass","place","pray","promise","paste","plan","preach","protect","pat","plant","precede","provide","pause","play","prefer",
+	"pull","peck","please","prepare","pump","pedal","plug","present","punch","peel","point","preserve","puncture","peep","poke","press","punish",
+	"perform","polish","pretend","push",
+	
+	"question","queue",
+	
+	"race","refuse","remove","rhyme","radiate","regret","repair","rinse","rain","reign","repeat","risk","raise","reject","replace","rob","reach",
+	"rejoice","reply","rock","realise","relax","report","roll","receive","release","reproduce","rot","recognise","rely","request","rub","record",
+	"remain","rescue","ruin","reduce","remember","retire","rule","reflect","remind","return","rush",
+	
+	"sack","shiver","soothe","stop","sail","shock","sound","store","satisfy","shop","spare","strap","save","shrug","spark","strengthen","saw","sigh",
+	"sparkle","stretch","scare","sign","spell","strip","scatter","signal","spill","stroke","scold","sin","spoil","stuff","scorch","sip","spot",
+	"subtract","scrape","ski","spray","succeed","scratch","skip","sprout","suck","scream","slap","squash","suffer","screw","slip","squeak","suggest",
+	"scribble","slow","squeal","suit","scrub","smash","squeeze","supply","seal","smell","stain","support","search","smile","stamp","suppose","separate",
+	"smoke","stare","surprise","serve","snatch","start","surround","settle","sneeze","stay","suspect","shade","sniff","steer","suspend","share","snore",
+	"step","switch","shave","snow","stir","shelter","soak","stitch",
+	
+	"talk","thaw","trace","trot","tame","tick","trade","trouble","tap","tickle","train","trust","taste","tie","transport","try","tease","time","trap",
+	"tug","telephone","tip","travel","tumble","tempt","tire","treat","turn","terrify","touch","tremble","twist","test","tour","trick","type","thank",
+	"tow","trip",
+	
+	"undress","unite","unpack","use","unfasten","unlock","untidy",
+	
+	"vanish","visit",
+	
+	"wail","waste","whirl","work","wait","watch","whisper","worry","walk","water","whistle","wrap","wander","wave","wink","wreck","want","weigh","wipe",
+	"wrestle","warm","welcome","wish","wriggle","warn","whine","wobble","wash","whip","wonder",
+	
+	"x-ray",
+	
+	"yawn","yell",
+	
+	"zip","zoom"
+	
+	]
+}
